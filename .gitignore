@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+# Expo build and bundler output
+.expo/
+build/
+dist/
+# Logs
+npm-debug.log
+yarn-error.log
+# OS
+.DS_Store
