@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "EchoFit",
+    "slug": "echofit",
+    "scheme": "echofit",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": { "image": "./assets/splash.png", "resizeMode": "contain", "backgroundColor": "#0E0F10" },
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": true }
+  }
+}
